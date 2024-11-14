@@ -11,3 +11,6 @@ but here is a rough guide about how I would do it if I know all the commands:
 2. copy the files from the usb flash drive to your root's home folder
 3. make the file allowed to be executed
 4. run the command in your home directory: ./[k- or garch.sh]
+
+with karch: ./karch.sh
+with garch: ./garch.sh
