@@ -4,7 +4,7 @@ karch.sh will help you install KDE plasma
 while
 garch.sh will help you install GNOME desktop
 
-Honestly idk how to run these (how to make them be allowed to execute), or even to just make them locally available on an arch machine... 
+Honestly idk how to run these (how to make them to be allowed to execute), or even just have them locally available on an arch machine... 
 
 but here is a rough guide about how I would do it if I know all the commands:
 1. download one of these files and copy them to a usb flash drive
